@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Léa Guilhem's profile</title>
+		<meta charset="utf-8">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+		<link rel="stylesheet"  href="style.css">
+
+	</head>
+	<body>
+
+	<div class="container">
+			
+		<div class="card-white" id="introduction">
+			<h1>Hello, I'm Léa</h1>
+		    <img src="image/profile.jpg" class="img-circle" width="100px" alt="Léa Guilhem">
+		    <p>I love travelling, listening to musicand diving. I am currently in my first year of stdy at IESEG and I hope to succeed in working internationally later on</p>
+		     <a href="http://lewagon.com" class="btn-blue">Discover Le Wagon</a>	
+		</div>
+
+		<div class="card-white">
+			<h2>Travels </h2>
+		    <p>
+		     I love discovering new cultures and new countries.	
+		    </p>
+		</div>
+
+		<div class="card-white">
+			<h2>Listening to music</h2>
+		    <p>
+		    I am always listening to music, taht's what makes me happy.
+		    </p>
+		</div>
+
+		<div class="card-white">
+			<h2>Diving</h2>
+		    <p>
+		    I love discovering all the oceans and swim with fishes	
+		    </p>	
+		</div> 
+
+		<div class="card-white">
+			<h2>Follow me</h2> 
+		    <ul class="list-inline">
+		    <li>
+				<a href="https://www.facebook.com/profile.php?id=100010688568454">Facebook</a>
+			</li>
+			<li>
+				<a href="#">Twitter</a>
+			<li>
+				<a href="https://www.instagram.com/lea.glhm/?hl=fr">Instagram</a>
+			</li>		
+		    </ul>
+		</div>
+
+	</div>
+
+
+	
+	</body>
+	</html>
+
+
+
